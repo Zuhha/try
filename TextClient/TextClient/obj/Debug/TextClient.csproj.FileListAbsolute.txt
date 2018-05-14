@@ -1,0 +1,10 @@
+c:\users\mamuna\documents\visual studio 2012\Projects\TextClient\TextClient\bin\Debug\TextClient.exe.config
+c:\users\mamuna\documents\visual studio 2012\Projects\TextClient\TextClient\bin\Debug\TextClient.exe
+c:\users\mamuna\documents\visual studio 2012\Projects\TextClient\TextClient\bin\Debug\TextClient.pdb
+c:\users\mamuna\documents\visual studio 2012\Projects\TextClient\TextClient\obj\Debug\TextClient.csprojResolveAssemblyReference.cache
+c:\users\mamuna\documents\visual studio 2012\Projects\TextClient\TextClient\obj\Debug\TextClient.Form1.resources
+c:\users\mamuna\documents\visual studio 2012\Projects\TextClient\TextClient\obj\Debug\TextClient.Next_forn.resources
+c:\users\mamuna\documents\visual studio 2012\Projects\TextClient\TextClient\obj\Debug\TextClient.Properties.Resources.resources
+c:\users\mamuna\documents\visual studio 2012\Projects\TextClient\TextClient\obj\Debug\TextClient.csproj.GenerateResource.Cache
+c:\users\mamuna\documents\visual studio 2012\Projects\TextClient\TextClient\obj\Debug\TextClient.exe
+c:\users\mamuna\documents\visual studio 2012\Projects\TextClient\TextClient\obj\Debug\TextClient.pdb

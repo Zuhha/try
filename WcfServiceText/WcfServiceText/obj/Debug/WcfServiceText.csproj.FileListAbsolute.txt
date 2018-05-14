@@ -1,0 +1,5 @@
+c:\users\mamuna\documents\visual studio 2012\Projects\WcfServiceText\WcfServiceText\bin\WcfServiceText.dll
+c:\users\mamuna\documents\visual studio 2012\Projects\WcfServiceText\WcfServiceText\bin\WcfServiceText.pdb
+c:\users\mamuna\documents\visual studio 2012\Projects\WcfServiceText\WcfServiceText\obj\Debug\WcfServiceText.csprojResolveAssemblyReference.cache
+c:\users\mamuna\documents\visual studio 2012\Projects\WcfServiceText\WcfServiceText\obj\Debug\WcfServiceText.dll
+c:\users\mamuna\documents\visual studio 2012\Projects\WcfServiceText\WcfServiceText\obj\Debug\WcfServiceText.pdb
