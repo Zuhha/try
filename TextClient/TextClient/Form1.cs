@@ -28,6 +28,7 @@ namespace TextClient
             server.SetText(txtText.Text);
             Next_forn Nf = new Next_forn();
             Nf.Show();
+            this.Show();
             this.Hide();
         }
     }

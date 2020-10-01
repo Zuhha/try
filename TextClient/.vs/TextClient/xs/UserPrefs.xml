@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{46D545A8-3F87-4353-B1D8-07BF5FF05D7D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TextClient/Form1.cs">
+    <Files>
+      <File FileName="TextClient/Form1.resx" Line="1" Column="1" />
+      <File FileName="TextClient/Form1.Designer.cs" Line="41" Column="13" />
+      <File FileName="TextClient/App.config" Line="1" Column="1" />
+      <File FileName="TextClient/Form1.cs" Line="32" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TextClient" expanded="True">
+            <Node name="TextClient" expanded="True">
+              <Node name="Form1.cs" expanded="True" selected="True" />
+              <Node name="Next forn.cs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TextClient PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
